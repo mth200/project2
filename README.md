@@ -20,6 +20,6 @@ It was mainly repetative work with creating the loop files and that helped with 
 
 As of now, it is working almost correctly for me, so I hope it works well for others, too.
 
-    I have sent my link to my peer partner and I am awaiting a response with their link. I will include it here when I recieve it (my peer partner posted the link
-    in our discussion board around 7pm and I have now forked it) : https://github.com/swetha0018/Project-2.git
+I have sent my link to my peer partner and I am awaiting a response with their link. I will include it here when I recieve it (my peer partner posted the link
+in our discussion board around 7pm and I have now forked it) : https://github.com/swetha0018/Project-2.git
 
